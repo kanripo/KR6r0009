@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 十八部論
+#+DATE: 2015-08-30 21:55:06.774840
+#+PROPERTY: JUAN 0
